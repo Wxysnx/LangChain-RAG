@@ -1,7 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="20"> OpenAI Embeddings
-<img src="https://www.langchain.com/images/langgraph.svg" width="20"> LangGraph
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_favicon.ico" width="20"> LangChain
-<img src="https://www.trychroma.com/favicon.png" width="20"> Chroma DB
+![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg){width=20}
+![LangGraph](https://www.langchain.com/images/langgraph.svg){width=20}
+![LangChain](https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_favicon.ico){width=20}
+![Chroma DB](https://www.trychroma.com/favicon.png){width=20}
 
 ## 项目概述
 
