@@ -1,7 +1,7 @@
-![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg){width=20}
-![LangGraph](https://www.langchain.com/images/langgraph.svg){width=20}
-![LangChain](https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_favicon.ico){width=20}
-![Chroma DB](https://www.trychroma.com/favicon.png){width=20}
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-4B9CD3?style=flat&logo=graph&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat&logo=chainlink&logoColor=white)
+![Chroma DB](https://img.shields.io/badge/-Chroma%20DB-4B0082?style=flat&logo=database&logoColor=white)
 
 ## 项目概述
 
